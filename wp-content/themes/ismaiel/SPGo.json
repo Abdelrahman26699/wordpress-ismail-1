@@ -1,0 +1,12 @@
+{
+    "sourceDirectory": "src",
+    "sharePointSiteUrl": "https://undefined",
+    "workspaceRoot": "e:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\new-quran-arabi-theme",
+    "publishWorkspaceOptions": {
+        "destinationFolder": "/",
+        "globPattern": "e:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\new-quran-arabi-theme\\src\\**\\*.*",
+        "localRoot": "e:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\new-quran-arabi-theme\\src"
+    },
+    "publishingScope": "SaveOnly",
+    "authenticationType": "Digest"
+}
